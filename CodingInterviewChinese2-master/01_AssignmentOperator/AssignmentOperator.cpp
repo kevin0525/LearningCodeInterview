@@ -17,7 +17,7 @@ https://github.com/zhedahht/CodingInterviewChinese2/blob/master/LICENSE.txt)
 
 #include<cstring>
 #include<cstdio>
-
+#include <stdlib.h>
 class CMyString
 {
 public:
@@ -144,6 +144,7 @@ int main(int argc, char* argv[])
     Test2();
     Test3();
 
+	system("PAUSE");
     return 0;
 }
 
